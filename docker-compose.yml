@@ -1,7 +1,8 @@
+
 services:
   supplier-assistant:
     build: .
-    container_name: ai-supplier-research-assistant
+    container_name: ai-supplier-assistant
 
     ports:
       - "8000:8000"
@@ -11,6 +12,5 @@ services:
 
     volumes:
       - ./chroma_db:/app/chroma_db
-      - ./data:/app/data
 
     restart: unless-stopped
