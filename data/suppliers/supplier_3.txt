@@ -1,0 +1,37 @@
+Supplier Name: Precision Mechanical Works
+
+Industry: Industrial Machinery
+
+Location: Islamabad, Pakistan
+
+Products:
+- CNC machined components
+- Industrial machine parts
+- Precision metal components
+- Customized mechanical assemblies
+
+Minimum Order Quantity:
+- Standard products: 100 units
+- Customized products: 250 units
+
+Certifications:
+- ISO 9001
+- ISO 45001
+
+Lead Time:
+- Standard products: 15-20 business days
+- Customized products: 30-45 business days
+
+Pricing:
+Pricing depends on material, machining requirements, tolerances, quantity, and finishing.
+
+Shipping:
+- Domestic shipping across Pakistan
+- International shipping available on request
+
+Payment Terms:
+- 40% advance payment
+- 60% before shipment
+
+Contact:
+Email: sales@precisionmechanical.example

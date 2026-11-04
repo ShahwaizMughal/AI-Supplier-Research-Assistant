@@ -1,0 +1,36 @@
+Supplier Name: Global Plastics Manufacturing
+
+Industry: Plastic Manufacturing
+
+Location: Karachi, Pakistan
+
+Products:
+- Plastic containers
+- Industrial plastic components
+- Custom plastic molded products
+- Packaging materials
+
+Minimum Order Quantity:
+- Standard products: 1000 units
+- Custom products: 2000 units
+
+Certifications:
+- ISO 9001
+
+Lead Time:
+- Standard products: 7-14 business days
+- Custom products: 20-30 business days
+
+Pricing:
+Pricing depends on material, dimensions, mold requirements, and order quantity.
+
+Shipping:
+- Domestic shipping across Pakistan
+- International shipping available for large orders
+
+Payment Terms:
+- 30% advance payment
+- Remaining 70% before shipment
+
+Contact:
+Email: sales@globalplastics.example

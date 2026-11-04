@@ -1,0 +1,37 @@
+Supplier Name: Alpha Electronics Ltd.
+
+Industry: Electronics Manufacturing
+
+Location: Lahore, Pakistan
+
+Products:
+- Electronic components
+- Printed Circuit Boards (PCB)
+- Electronic control systems
+- Custom electronic assemblies
+
+Minimum Order Quantity:
+- Standard products: 500 units
+- Custom PCB orders: 1000 units
+
+Certifications:
+- ISO 9001
+- ISO 14001
+
+Lead Time:
+- Standard products: 10-15 business days
+- Custom products: 25-35 business days
+
+Pricing:
+Pricing depends on product specifications, order quantity, and customization requirements.
+
+Shipping:
+- Domestic shipping across Pakistan
+- International shipping available
+
+Payment Terms:
+- 50% advance payment
+- 50% before shipment
+
+Contact:
+Email: sales@alphaelectronics.example

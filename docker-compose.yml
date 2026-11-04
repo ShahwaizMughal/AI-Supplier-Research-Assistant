@@ -1,0 +1,16 @@
+services:
+  supplier-assistant:
+    build: .
+    container_name: ai-supplier-research-assistant
+
+    ports:
+      - "8000:8000"
+
+    env_file:
+      - .env
+
+    volumes:
+      - ./chroma_db:/app/chroma_db
+      - ./data:/app/data
+
+    restart: unless-stopped

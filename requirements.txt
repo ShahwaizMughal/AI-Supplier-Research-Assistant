@@ -1,0 +1,8 @@
+google-genai==2.18.1
+chromadb
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+pytest
+httpx
